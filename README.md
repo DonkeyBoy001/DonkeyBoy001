@@ -15,5 +15,5 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 
 
 ![](https://github-readme-stats.vercel.app/api?username=DonkeyBoy001&theme=dark)
-
-waka_8747b791-ddab-4913-98e5-64203813d37b
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
