@@ -16,6 +16,75 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 ---
 ![](https://github-readme-stats.vercel.app/api?username=DonkeyBoy001&theme=dark)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 56.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 73 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+🌆 Daytime                57 commits          █████████████░░░░░░░░░░░░   52.29 % 
+🌃 Evening                35 commits          ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Wednesday                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Thursday                 46 commits          ███████████░░░░░░░░░░░░░░   42.20 % 
+Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+
+ Last Updated on 05/07/2023 18:39:56 UTC
 <!--END_SECTION:waka-->
 
 
