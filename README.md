@@ -8,7 +8,7 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 
 - 🏢 I'm currently studying **Computer Science** at **Northeastern Unversity**
 - I’m looking for SDE internship or new Grad postion in 2023 fall semester or 2024 whole year.
-- 🚀 I use daily: **Java**, **Python**, **JavaScript**, **Linux**, **Git**, **Bash**, **VS Code**, **PyCharm**, **IDEA**, **Docker**,, **Postman**
+- 🚀 I use daily: **Java**, **Python**, **JavaScript**, **Linux**, **Git**, **Bash**, **VS Code**, **PyCharm**, **IDEA**, **Docker**, **Postman**
 - 💻 I work using:**SpringBoot**, **Django** , **Node.js**, **React**, **Mysql**, **MongoDB** , **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I love to read books, eat and travel
 
