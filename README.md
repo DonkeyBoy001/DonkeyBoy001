@@ -28,9 +28,9 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -84,7 +84,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2023 18:34:12 UTC
+ Last Updated on 15/11/2023 18:35:03 UTC
 <!--END_SECTION:waka-->
 
 
