@@ -16,8 +16,6 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 ---
 ![](https://github-readme-stats.vercel.app/api?username=DonkeyBoy001&theme=dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +82,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:35:42 UTC
+ Last Updated on 06/12/2023 18:36:06 UTC
 <!--END_SECTION:waka-->
 
 
