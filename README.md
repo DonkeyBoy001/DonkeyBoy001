@@ -22,13 +22,13 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 
 **🐱 My GitHub Data** 
 
-> 📦 83.4 kB Used in GitHub's Storage 
+> 📦 93.9 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2023
+> 🏆 129 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -71,20 +71,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 30/12/2023 18:33:53 UTC
+ Last Updated on 31/12/2023 18:34:26 UTC
 <!--END_SECTION:waka-->
 
 
