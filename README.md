@@ -18,7 +18,7 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,7 +84,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2024 18:33:59 UTC
+ Last Updated on 31/01/2024 18:33:56 UTC
 <!--END_SECTION:waka-->
 
 
