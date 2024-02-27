@@ -24,8 +24,6 @@ I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge a
 
 > 📦 105.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -84,7 +82,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2024 18:33:48 UTC
+ Last Updated on 27/02/2024 18:36:06 UTC
 <!--END_SECTION:waka-->
 
 
