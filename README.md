@@ -4,12 +4,12 @@
 **DonkeyBoy001/DonkeyBoy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge attraction on  Big Data  and I am a bit 😄 mad 😄 when I code. Connect with me here
+I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge attraction on  Software Development and AI  and I am a bit 😄 mad 😄 when I code. Connect with me here
 
 - 🏢 I'm currently studying **Computer Science** at **Northeastern Unversity**
 - I’m looking for SDE in 2024 whole year.
-- 🚀 I use daily: **Java**, **Python**, **JavaScript**, **Linux**, **Git**, **Bash**, **VS Code**, **PyCharm**, **IDEA**, **Docker**, **Postman**
-- 💻 I work using:**SpringBoot**, **Django** ,**Flask**, **Node.js**, **React**, **Mysql**, **MongoDB** , **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- 🚀 I use daily:  **Python**,**Java**, **JavaScript**, **Linux**, **Git**, **Bash**, **VS Code**, **PyCharm**, **IDEA**, **Docker**, **Postman**
+- 💻 I work using: **Django** ,**SpringBoot**, **Flask**, **Node.js**, **React**, **Mysql**, **MongoDB** , **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I love to read books, eat and travel
 
 
