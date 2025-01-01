@@ -3,11 +3,8 @@
 <!--
 **DonkeyBoy001/DonkeyBoy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I love to talk about trending ⚡ technology ⚡, I have a huge attraction on  Software Development and AI  and I am a bit 😄 mad 😄 when I code. Connect with me here
 
-I am Zhenzhou. I love to talk about trending ⚡ technology ⚡, I have a huge attraction on  Software Development and AI  and I am a bit 😄 mad 😄 when I code. Connect with me here
-
-- 🏢 I'm currently studying **Computer Science** at **Northeastern Unversity**
-- I’m looking for SDE in 2025 year.
 - 🚀 I use daily:  **Python**,**Java**, **JavaScript**, **Linux**, **Git**, **Bash**, **VS Code**, **PyCharm**, **IDEA**, **Docker**, **Postman**
 - 💻 I work using: **Django** ,**SpringBoot**, **Flask**,**React**, **Tensflow**, **Pytorch**, **Mysql**, **MongoDB** , **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I love to read books, eat and travel
